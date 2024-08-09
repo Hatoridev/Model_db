@@ -1,6 +1,6 @@
 # Model_db
 
-Repositório com exemplos de modelagem de dados usando SQLite e Python. Inclui exemplos de criação de bancos de dados, tabelas, e inserção de dados.
+Repository with small examples of Data Modeling using SQLite, some in conjunction with Python.
 
 ## Como Executar
 
